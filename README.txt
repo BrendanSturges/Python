@@ -1,2 +1,1 @@
-This is a random collection of python projects that are vaguely useful
-
+Master folder containing all of my Python projects
